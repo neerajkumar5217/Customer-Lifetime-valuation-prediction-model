@@ -8,9 +8,15 @@ This equation now gives us the historical lifetime value. If we see some custome
 
 We are going to build a simple machine learning model that predicts our customers lifetime value.
 
-Lifetime Value Prediction
-Define an appropriate time frame for Customer Lifetime Value calculation
-Identify the features we are going to use to predict future and create them
-Calculate lifetime value (LTV) for training the machine learning model
-Build and run the machine learning model
-Check if the model is useful
+Lifetime Value Prediction:
+
+Define an appropriate time frame for Customer Lifetime Value calculation.
+
+Identify the features we are going to use to predict future and create them.
+
+Calculate lifetime value (LTV) for training the machine learning model.
+
+Build and run the machine learning model.
+
+Check if the model is useful.
+
